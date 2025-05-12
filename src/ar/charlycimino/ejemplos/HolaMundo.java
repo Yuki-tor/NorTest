@@ -13,10 +13,7 @@ public class HolaMundo {
         System.out.println("Hola mundo");
         System.out.println("Hola mun2");
         System.out.println("Adios mundo");
-        System.out.println("Adios mundo2");
-        System.out.println("Adios mundo3");
-        System.out.println("Adios mundo4");
-        System.out.println("Adios mundo5");
+     
     }
 
 }
